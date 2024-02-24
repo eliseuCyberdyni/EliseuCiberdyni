@@ -103,7 +103,7 @@ nav ul li ul li a:focus {
 .dropdown {
 	display: none;
 	position: absolute;
-	background: #fff;
+	background: #008FEA;
 	box-shadow: 0 4px 10px rgba(10, 20, 30, .4);
 }
 
