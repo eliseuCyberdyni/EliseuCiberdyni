@@ -85,7 +85,7 @@ nav ul li a:not(:only-child)::after {
 }
 
 nav ul li ul li {
-	min-width: 50px;
+	min-width: 10px;
 }
 
 nav ul li ul li a {
