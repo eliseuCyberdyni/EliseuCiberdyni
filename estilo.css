@@ -80,7 +80,7 @@ nav ul li a:focus {
 }
 
 nav ul li a:not(:only-child)::after {
-	padding-left: 5px;
+	padding-left: 10px;
 	content: ' ▾';
 }
 
