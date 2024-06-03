@@ -1,25 +1,18 @@
 body{
 
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL9zr72tr_nosQcbqQzK5ijPf7srnUL5Kv4Q&s");
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk3EzpW6GO6ckJrGrzVm_HpkpRk5E_g_cYu9fqrsNww8waKbg96-Rb3fGxXA&s");
 background-repeat: no-repeat;
 background-position: top;
 background-color: #000000;
+}
+
+
+{
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300&subset=latin-ext");
 
 
-
-
-
-
-	
-
-
 }
-{
 
-
-}
-}
 body {
 -moz-osx-font-smoothing:grayscale;
 -ms-flex-direction:column;
